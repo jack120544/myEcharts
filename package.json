@@ -1,0 +1,23 @@
+{
+  "name": "echats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack120544/myEcharts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack120544/myEcharts/issues"
+  },
+  "homepage": "https://github.com/jack120544/myEcharts#readme",
+  "dependencies": {
+    "echarts": "^4.8.0"
+  }
+}
