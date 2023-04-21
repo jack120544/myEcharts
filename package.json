@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jack120544/myEcharts#readme",
   "dependencies": {
-    "echarts": "^4.8.0"
+    "echarts": "^5.4.2"
   }
 }
